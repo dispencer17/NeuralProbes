@@ -19,7 +19,6 @@ yp = linspace(0,400,100);
 n = 0;
 phi = pi / 2;
 
-
 % some parameter definitions
 eta = sqrt(1 + n^2);
 theta = asin(yp ./ (gamma*Lp));
